@@ -1,0 +1,13 @@
+{
+    "name": "sodexs/worktime",
+    "description": "worktime",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sodexs\\Worktime\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
